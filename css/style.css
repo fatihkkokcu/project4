@@ -1,0 +1,48 @@
+body{
+    background-color: #E9ECEF;
+    text-align: center;
+}
+h1{
+    color: #432c7a;
+}
+h3{
+    color: #e97777;
+}
+h5{
+    color: #ff8fb1;
+}
+.menu{
+    display: inline-block;
+    margin-right: 6px;
+    padding: 6px 10px 6px 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: #EBF5FB;
+}
+.homepage a{
+    color: #D35400;
+}
+.menu:hover{
+    background-color: #5E6673;
+    border-radius: 16px;
+}
+.homepage:hover{
+    background-color: transparent;
+}
+.menu a:hover{
+    color: white;
+}
+.homepage a:hover{
+    color: #D35400;
+}
+.menubar{
+    background-color: #212F3D;
+    text-align: left;
+    height: 36px;
+    width: 100%;
+}
+#items{
+    text-align: left;
+    display: inline-block;
+}
